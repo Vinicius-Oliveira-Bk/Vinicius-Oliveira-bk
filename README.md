@@ -1,5 +1,5 @@
-## Olá, eu me chamo Vinícius! 
-### Bem-vindo(a) ao meu perfil do GitHub 👋🏽
+## Olá, eu me chamo Vinícius. Mas pode me chamar de Bk! 
+### Bem-vindo(a) ao meu perfil GitHub 👋🏽
 
 #### Sou apaixonado por tecnologia, programação e jogos 🎮💻
 
